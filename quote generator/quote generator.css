@@ -57,3 +57,36 @@ body{
     box-shadow: 0 5px #e61d1d;
     transform: translateY(4px);
 }
+@media screen and (max-width:600px){
+    .a{
+        
+        margin-top:15%;
+        margin-bottom: 25%;
+        margin-left: 11%;
+        margin-right: 10%;
+        padding-top: 3%;
+        padding-bottom: 10%;
+        padding-left: 5%;
+        padding-right: 5%;
+       
+        height: 600%;
+        width:300px;
+        
+    }
+    #output{
+        font-family: serif;
+        font-size: 175%;
+        margin-top: 15%;
+        padding-top: 5%;
+        padding-bottom: 16%;
+        height: 3px;
+        margin-bottom: 20%;
+    }
+    #btn{
+        font-size: 15px;
+        text-align: center;
+        margin-top: 40%;
+        
+
+    }
+}
